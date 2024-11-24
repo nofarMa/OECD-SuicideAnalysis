@@ -1,4 +1,4 @@
-Suicide Analysis in OECD Countries
+
 Overview
 This project explores suicide trends in OECD countries, focusing on the relationships between socioeconomic factors (GDP, HDI, age) and suicide rates. The analysis also compares Israel, Austria, and Switzerland to uncover unique patterns and insights.
 
