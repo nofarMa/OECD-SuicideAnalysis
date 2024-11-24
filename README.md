@@ -13,6 +13,7 @@ Number of Suicides, Population
 GDP, HDI, Generation
 Suicides per 100,000 People
 Key Objectives
+
 Analyze Trends:
 
 Impact of conscription and wars on suicide rates.
@@ -21,14 +22,20 @@ Country Comparisons:
 
 Compare Israel, Austria, and Switzerland.
 Highlight suicide trends by gender and age.
+
 Visualizations:
 
 Use graphs to uncover patterns and relationships.
+
 Key Findings
+
 Conscription and Wars: Minimal impact on suicide rates.
 GDP and HDI: Higher GDP/HDI correlates with lower suicide rates.
+
 Age: Older age groups consistently show higher suicide rates.
+
 Visualizations
+
 Suicide rates by country.
 Trends by gender and age.
 Correlations with GDP and HDI.
