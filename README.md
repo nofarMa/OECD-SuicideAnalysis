@@ -5,6 +5,7 @@ This project explores suicide trends in OECD countries, focusing on the relation
 
 
 Dataset
+
 The dataset includes 38 OECD countries and spans multiple years, with information on:
 
 Country, Year, Gender, Age
